@@ -11,7 +11,7 @@ const introdata = {
     animated: {
         first: "Développeur full stack junior",
         second: "Bienvenue sur mon portfolio",
-        third: "qui présente mes projets",
+        third: "Bonne visite",
     },
     description: "Passionné par le développement web et le développement mobile, j'aime travailler avec différentes technologies  telles que ReactJS, React Native, NodeJS, ExpressJS, MongoDB, MySQL, Symfony, PHP, JQuery, JavaScript, etc.",
     your_img_url:  Profile,
@@ -41,24 +41,32 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Symfony",
+        value: 50,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Bootstrap",
+        value: 70,
     },
     {
         name: "Javascript",
-        value: 80,
+        value: 40,
     },
     {
-        name: "React",
-        value: 60,
+        name: "ReactJS",
+        value: 20,
     },
     {
         name: "Jquery",
-        value: 85,
+        value: 40,
+    },
+    {
+        name: "HTML",
+        value: 70,
+    },
+    {
+        name: "CSS",
+        value: 50,
     },
 ];
 
