@@ -1,6 +1,4 @@
-{
-    "homepage": "http://cino77940.github.io/portfolio",
-    "name": "react-portfolio",
+{   "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -27,9 +25,7 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
-        "eject": "react-scripts eject",
-        "predeploy": "yarn build && cp build/index.html build/404.html",
-        "deploy": "master -d build"
+        "eject": "react-scripts eject"
     },
     "eslintConfig": {
         "extends": [
