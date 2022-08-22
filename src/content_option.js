@@ -89,16 +89,19 @@ const dataportfolio = [{
         desctiption: "Mon premier CV réalisé avec Bootstrap.",
         link: "https://master.d5jizjzr30xjw.amplifyapp.com/",
     },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
@@ -109,6 +112,7 @@ const dataportfolio = [{
         desctiption: "RetroLand, plateforme d'emulateurs et de roms de console retro developpé avec ReactJS.",
         link: "https://main.d2x1geeqsnm9ja.amplifyapp.com/",
     },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
@@ -130,16 +134,19 @@ const dataportfolio = [{
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
+
     {
         img: "https://picsum.photos/400/?grayscale",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
