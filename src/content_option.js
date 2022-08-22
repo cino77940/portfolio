@@ -86,70 +86,70 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://www.boyden.com/img/tiles/6501032D/soumettre-votre-cv-400x400.jpg",
-        desctiption: "Mon premier CV réalisé avec Bootstrap.",
+        description: "Mon premier CV réalisé avec Bootstrap.",
         link: "https://master.d5jizjzr30xjw.amplifyapp.com/",
     },
 
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
     {
         img: "https://www.cdiscount.com/pdt2/5/8/8/4/400x400/DOD9581252029588/rw/ps1-mini-console-de-jeu-deux-controleurs-de-jeu-so.jpg",
-        desctiption: "RetroLand, plateforme d'emulateurs et de roms de console retro developpé avec ReactJS.",
+        description: "RetroLand, plateforme d'emulateurs et de roms de console retro developpé avec ReactJS.",
         link: "https://main.d2x1geeqsnm9ja.amplifyapp.com/",
     },
 
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "Projet à venir",
+        description: "Projet à venir",
+        link: "#",
+    },
+
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "Projet à venir",
         link: "#",
     },
 ];
