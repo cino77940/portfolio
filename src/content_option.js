@@ -1,4 +1,7 @@
 import Profile from './ProfilePicture/profile.png';
+import Wikipedia from './PortfolioPicture/wiki.png';
+import Retroland from './PortfolioPicture/retro.png';
+import Imc from './PortfolioPicture/imc.png';
 
 const logotext = "SAKOGLU CUNEYT";
 const meta = {
@@ -91,9 +94,9 @@ const dataportfolio = [{
     },
 
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Projet à venir",
-        link: "#",
+        img: Imc,
+        description: "Calcul de l'IMC avec Javascript.",
+        link: "https://master.ddd8jqbhg2x5u.amplifyapp.com/",
     },
 
     {
@@ -108,7 +111,7 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://www.cdiscount.com/pdt2/5/8/8/4/400x400/DOD9581252029588/rw/ps1-mini-console-de-jeu-deux-controleurs-de-jeu-so.jpg",
+        img: Retroland,
         description: "RetroLand, plateforme d'emulateurs et de roms de console retro developpé avec ReactJS.",
         link: "https://main.d2x1geeqsnm9ja.amplifyapp.com/",
     },
@@ -130,9 +133,9 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Projet à venir",
-        link: "#",
+        img:  Wikipedia,
+        description: "Recherche Wikipedia developer avec Javascript.",
+        link: "https://master.dh1on8wgeriei.amplifyapp.com/",
     },
 
     {
